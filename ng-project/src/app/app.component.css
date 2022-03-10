@@ -14,7 +14,7 @@ section {
 
 body {
   background-color: #FFB5B5;
-  margin: auto;
+  overflow: scroll;
   }
 
 .accent-button {
